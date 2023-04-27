@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: url(bg-eye.png);
+	/* background-position: center; */
+	background-repeat: no-repeat;
+	background-size: 100% 100vh;
+	/* background-color: white; */
+}
+
+.content {
+	/* background-image: url("../src/images/bg-eye.png"); */
+	/* background: url(bg-eye.png); */
+	color: black;
+}
